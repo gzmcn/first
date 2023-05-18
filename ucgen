@@ -1,3 +1,4 @@
+from sekil import Sekil
 class Ucgen(Sekil):
     
     def __init__(self, kenar1, kenar2, kenar3, taban, yukseklik):
