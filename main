@@ -19,8 +19,8 @@ def main():
     print(dikdortgen)
     print(ucgen)
     
-    dikdortgen = Dikdortgen(22,3)
-    print(dikdortgen)
+    ucgen2 = Ucgen(3,4,5,5,5)
+    print(ucgen2)
 
 
 main()
