@@ -1,0 +1,11 @@
+class Sekil:
+    def alan(self):
+        pass
+    def cevre(self):
+        pass
+    def ciz(self):
+        pass
+    def __str__(self):
+        pass
+
+    
