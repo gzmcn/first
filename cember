@@ -1,3 +1,4 @@
+from sekil import Sekil
 class Cember(Sekil):
     pi = 3.14
     def __init__(self, yaricap):
